@@ -24,7 +24,7 @@
 
 > **"Infrastructure as Code is like sleep: you only notice it when it's missing."**
 
-I am an Informatics student with a focus on System Administration and Automation. I enjoy solving infrastructure problems and building efficient pipelines.
+I am an Informatics Engineering student with a focus on System Administration and Automation. I enjoy solving infrastructure problems and building efficient pipelines.
 
 - 🔭 I’m currently working on **Mojii Desktop Partner** and **My First CI/CD Project**
 - 👯 I’m looking to collaborate on **System Infrastructure**
@@ -63,10 +63,11 @@ I am an Informatics student with a focus on System Administration and Automation
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arzenos&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arzenos&theme=tokyonight&hide_border=true&layout=compact)<br/>
+# Random Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=Arzenos&icon=5&color=2)](https://visitcount.itsvg.in)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Arzenos&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Arzenos&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arzenos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=Arzenos&icon=0&color=0)](https://visitcount.itsvg.in)
