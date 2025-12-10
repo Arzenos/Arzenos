@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi,+I'm+Athalla+Bayanaka;Informatics+Student+%40+UNESA;Explore.+Code.+Deploy." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi,+I'm+Athalla;Informatics+Student;Explore.+Code.+Deploy." alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -63,18 +63,9 @@ I am an Informatics student with a focus on System Administration and Automation
 
 ---
 
-<div align="center">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Arzenos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arzenos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arzenos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arzenos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-<br/>
-
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
-
-[![Visit Counter](https://visitcount.itsvg.in/api?id=Arzenos&icon=5&color=2)](https://visitcount.itsvg.in)
-
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=Arzenos&icon=5&color=2)](https://visitcount.itsvg.in)
