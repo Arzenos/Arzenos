@@ -24,7 +24,7 @@
 
 > **"Infrastructure as Code is like sleep: you only notice it when it's missing."**
 
-I am an Informatics Engineering student with a focus on System Administration and Automation. I enjoy solving infrastructure problems and building efficient pipelines.
+I am an Informatics Engineering student with a focus on System Maintenances and Automation. I enjoy solving infrastructure problems and building efficient pipelines.
 
 - 🔭 I’m currently working on **Mojii Desktop Partner** and **My First CI/CD Project**
 - 👯 I’m looking to collaborate on **System Infrastructure**
