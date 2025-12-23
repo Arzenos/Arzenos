@@ -32,7 +32,7 @@ I am an Informatics Engineering student with a focus on System Maintenances and 
 
 ---
 
-# 📈 Activity
+### 📈 Activity
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arzenos&theme=tokyo-night&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
