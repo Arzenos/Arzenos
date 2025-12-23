@@ -71,4 +71,3 @@ I am an Informatics Engineering student with a focus on System Maintenances and 
 ![](https://nirzak-streak-stats.vercel.app/?user=Arzenos&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arzenos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=Arzenos&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://github-readme-stats.vercel.app/api?username=Arzenos)](https://github.com/anuraghazra/github-readme-stats)
