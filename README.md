@@ -32,6 +32,11 @@ I am an Informatics Engineering student with a focus on System Maintenances and 
 
 ---
 
+# 📈 Activity
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arzenos&theme=tokyo-night&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 # 🛠️ Tech Stack & Toolbox
 
 ### 🐧 Linux Distros & Terminal
@@ -70,5 +75,4 @@ I am an Informatics Engineering student with a focus on System Maintenances and 
 ![](https://github-readme-stats.vercel.app/api?username=Arzenos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arzenos&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arzenos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arzenos&theme=tokyo-night&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![](https://visitcount.itsvg.in/api?id=Arzenos&icon=0&color=0)](https://visitcount.itsvg.in)
