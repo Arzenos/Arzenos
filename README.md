@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://arzenos.me">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portfolio"/>
+  <a href="https://arzenos.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
   </a>
   <a href="https://instagram.com/athallabm">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/athalla-maheswara-406b9b268">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://youtube.com/@@littlemanifest1572">
+  <a href="https://youtube.com/@littlemanifest1572">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="mailto:athallamaheswara@gmail.com">
