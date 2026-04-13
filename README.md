@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi,+I'm+Athalla;Informatics+Student;Explore.+Code.+Deploy;I Use Arch BTW" alt="Typing SVG." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi,+I'm+Athalla;Informatics+Student;Explore.+Code.+Deploy.;I+Use+Arch+BTW" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@ I am an Informatics Engineering student with a focus on System Maintenance and A
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kubuntu](https://img.shields.io/badge/Kubuntu-317EAC?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-![Linux Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 💻 Languages
 
@@ -99,7 +99,7 @@ I am an Informatics Engineering student with a focus on System Maintenance and A
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Version Control & Platforms
+### 🔧 Version Control & Platforms
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -132,10 +132,18 @@ I am an Informatics Engineering student with a focus on System Maintenance and A
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+---
+
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arzenos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Arzenos&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arzenos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arzenos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Arzenos&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arzenos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=Arzenos&icon=0&color=0)](https://visitcount.itsvg.in)
