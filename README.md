@@ -138,11 +138,11 @@ I am an Informatics Engineering student with a focus on System Maintenance and A
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arzenos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-kappa-ten-35.vercel.app/api?username=Arzenos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Arzenos&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://github-readme-stats-kappa-ten-35.vercel.app/?user=Arzenos&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arzenos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats-kappa-ten-35.vercel.app/api/top-langs/?username=Arzenos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
