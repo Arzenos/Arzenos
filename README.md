@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi,+I'm+Athalla;Informatics+Student;Explore.+Code.+Deploy." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi,+I'm+Athalla;Informatics+Student;Explore.+Code.+Deploy.;I Use Arch BTW" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -134,8 +134,8 @@ I am an Informatics Engineering student with a focus on System Maintenance and A
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Arzenos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arzenos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Arzenos&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arzenos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arzenos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Arzenos&icon=0&color=0)](https://visitcount.itsvg.in)
